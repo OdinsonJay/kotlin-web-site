@@ -221,4 +221,4 @@ To run visual testing, apply one of the next scripts:
 - `yarn test:visual` to compare pages with base screenshots. Base screenshots are in `test/visual`.
 - `yarn test:visual:headed` to run visual test in headed mode.
 - `yarn test:visual:update` to update all screenshots, for example, when the page has been changed.
-- `yarn ci:visual` to run visual test in CI environments. 
+- `yarn ci:visual` to run visual test in CI environments. # verbose-computing-machine
